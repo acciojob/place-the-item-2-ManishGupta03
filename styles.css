@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.holder {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+	flex-wrap:wrap;
+}
+
+.holder > div {
+   width: 70px;
+  height: 70px;
+/* Your CSS Code here. */
